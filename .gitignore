@@ -1,0 +1,13 @@
+@@ -0,0 +1,12 @@
+# Log files
+keyboard_events.txt
+
+# Python cache
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+env/
